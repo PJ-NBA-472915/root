@@ -1,10 +1,10 @@
-# nebula
+# pj-nba-472915
 
 Root repository that contains all of the other repositories as submodules.
 
 ## documentation
 
-Basic information about development, deployment, and usage of the project can be found in the readme files of the submodules. For more details and an overarching document spanning across all submodules, refer to the [documentation]().
+Basic information about development, deployment, and usage of the project can be found in the readme files of the submodules. For more details and an overarching document spanning across all submodules, refer to the [documentation](https://tri2be.notion.site/PJ-NBA-472915-aeaf583870164322b2fc3b0a54100924?pvs=4).
 
 ## conventional commits
 
